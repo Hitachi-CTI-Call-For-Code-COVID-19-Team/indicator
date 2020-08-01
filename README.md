@@ -55,8 +55,8 @@
 
 ### COVSAFE Mobile App
 - Install COVSAFE Mobile App.
-- see [README.md]() of Mobile App Repository for more details.
+- see README in the COVSAFE mobile-app repository for more details.
 
 ### Push notifications
 - Setup Push notifications.
-- see [README.md]() of Push Notifications Repository for more details.
+- see README in the COVSAFE push-notifications repository for more details.
